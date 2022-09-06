@@ -1,0 +1,6 @@
+
+ErrorDocument 403 /all_projects/todo/error_page/403.html
+ErrorDocument 404 /all_projects/todo/error_page/404.html
+ErrorDocument 500 /all_projects/todo/error_page/500.html
+
+Options -Indexes
