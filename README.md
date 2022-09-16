@@ -45,3 +45,14 @@ RewriteRule ^(.*)$ https://goodimages.infinityfreeapp.com/ [R,L]
 # -- 2) Importance of structuring the codes with different folder for different purpose
 
  https://goodimages.infinityfreeapp.com/   Visit the site hosted for free and create your account and store your todos
+
+
+# -- 3) Importance of gitignore for the security of codes
+
+
+
+
+
+
+
+
